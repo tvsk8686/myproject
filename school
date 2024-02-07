@@ -1,0 +1,33 @@
+---
+# A sample yaml file defining a school details
+school:
+  name: "Example School"
+  address:
+    street: "123 Main Street"
+    city: "Anytown"
+    state: "CA"
+    zip: "12345"
+  phone: "555-123-4567"
+  website: "https://www.example-school.com"
+  principal: "Dr. Jane Doe"
+  assistant_principal: "Ms. Alice Johnson"
+  grades:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+  subjects:
+    - math
+    - science
+    - english
+    - history
+    - art
+    - music
+    - physical_education
+    - foreign_language
